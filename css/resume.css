@@ -138,6 +138,8 @@ section.resume-section .resume-item .resume-date {
 .bg-primary {
   /*background-color: #381D2A !important;*/
   background: url(../img/background.jpg);
+  background-color: rgb(50, 50, 50) !important;
+  background-blend-mode: soft-light;
   background-size: contain;
   background-attachment: fixed;
 } 
