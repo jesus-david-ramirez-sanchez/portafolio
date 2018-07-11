@@ -144,6 +144,12 @@ section.resume-section .resume-item .resume-date {
   background-attachment: fixed;
 } 
 
+@media(max-width: 800px){
+  .bg-primary{
+    background: rgb(50, 50, 50);
+  }
+}
+
 .text-primary {
   color: #C98850 !important;
 }
